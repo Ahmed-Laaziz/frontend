@@ -17,6 +17,18 @@ ReactJS a une structure clairement définie, permettant de tester facilement les
 1.	Sélection d'une ville dans la liste des villes disponibles
 2.	Affichage des monuments dans la ville sélectionnée, groupées par zone
 3.	Possibilité de filtrer les monuments affichées par nom.
+#### Conception UML
+
+Voici la conception UML de notre application
+*4.1* Diagramme de cas d'utilisation  | *4.2* Diagramme de classe 
+:------------:|:---------------:
+![Imgur](https://imgur.com/lPdVXvE.jpg)  |  ![Imgur](https://imgur.com/oa6v6jw.jpg) 
+#### Architecture de l'application
+
+Voici l'architecture générale de notre application
+*5.1* Architecture générale
+:------------:
+![Imgur](https://imgur.com/KPrwjjI.jpg) 
 # Mode d’emploi
 Pour démarrer cette partie front-end( à noter il faut démarrer la partie backend en premier , pour consommer les APIS backend avec Axios) , suivez les étapes suivantes :
 1.	Téléchargez le projet sur votre ordinateur
