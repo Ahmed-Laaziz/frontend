@@ -41,3 +41,17 @@ Pour démarrer cette partie front-end( à noter il faut démarrer la partie back
 8.	Puis cliquer sur la carte(card item) qui concerne le monument choisi
 9.	Visualiser leur détails avec des images
 10.	Puis consulter son localisation exacte.
+
+# Aperçu
+Acceuil  |  Liste des monuments
+:-------------:|:----------------:
+![Imgur](https://imgur.com/bDaWB0Q.jpg)  |  ![Imgur](https://imgur.com/mBykDMz.jpg)
+
+CRUD |  Ajout d'un monument 
+:-------------:|:----------------:
+![Imgur](https://imgur.com/Gp4bzbf.jpg)  |  ![Imgur](https://imgur.com/qF0OG1V.jpg)  
+
+Détails |  Localisation du monument 
+:-------------:|:----------------:
+![Imgur](https://imgur.com/1J889kM.jpg)  |  ![Imgur](https://imgur.com/QFrhFxj.jpg)  
+
