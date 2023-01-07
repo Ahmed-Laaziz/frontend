@@ -1,6 +1,10 @@
 # Localisation des monuments-partie Front-End(ReactJs)
 Cette partie du projet a pour but de mettre en place des interfaces érgonomiques et sofistiquées permettant d’afficher et localiser les monuments dans une ville choisie avec les détails de chaque monument . pour cet objectif , on a utilisé Reactjs comme framework front-end pour mettre en place les interfaces interéssentes de notre application.  
 
+#### Partie Mobile
+
+Dépot:https://github.com/Ahmed-Laaziz/partieMobile
+
 # Les avantages derrière le choix du ReactJs exactement
 1. C’est intuitif
 React JS aide à créer un code simple et intuitif afin que vous puissiez éviter les scénarios imprévisibles. La bibliothèque offre une gestion puissante des états, des actions et des événements. Bien que simple, ReactJS donne un contrôle total aux développeurs sur la façon dont il doit se comporter sur les actions des utilisateurs. La bibliothèque est en elle-même intuitive et permet une interactivité dans la disposition de l’interface utilisateur.
